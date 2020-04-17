@@ -1,0 +1,302 @@
+body {
+    font-family: 'Poppins', sans-serif
+
+}
+.position-fixed {
+    z-index: 1;
+}
+.offer-main {
+    background-color: #FE525B;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.offer-main h4 {
+    color: #fff;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 300;
+}
+.nav-fill {
+    margin-left: 190px;
+}
+.d-flex {
+    margin-left: 80px;
+}
+.navbar li {
+    font-weight: 600;
+    color: #000000;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar-custom {
+    background: rgba(255,255,255,0.9);
+}
+
+.navbar-custom .img-fluid{
+    height: 60px;
+}
+.ml-2 {
+    font-weight: 700;
+    font-size: 21px;
+    color: #000000;
+}
+li {
+    margin: 13px;
+}
+.card-img h3 {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 151px;
+}
+.card-img .align-middle{
+    text-align: center;
+    font-weight: 800;
+    font-size: 70px;
+    color: #ffffff;
+}
+section.card-img {
+    background-image: url(../images/pete-bellis-278587-2000x1329.jpg);
+    padding: 100px;
+    height: 1172px;
+}
+.mark {
+    padding: .2em;
+    background-color: #ffffff;
+}
+.line {
+    width: 5rem;
+    height: 3px;
+    background: linear-gradient(90deg, #a38dfd, #fe525b);
+    display: inline-block;
+    margin-left: 510px;
+}
+.underline {
+    margin-top: 2px;
+}
+ .mbr-text {
+     display: block;
+     padding-top: 2px;
+     border-top: 1px solid rgba(0, 0, 0, 0.1);
+ }
+span.number-wrap {
+    width: 120px;
+    display: inline-block;
+    background: linear-gradient(135deg, #a38dfd, #ffa0a4);
+    margin-top: 1px;
+    color: #ffffff;
+    text-align: center;
+}
+.main {
+    max-width: 16%;
+}
+.summer-main {
+    margin-left: 439px;
+    margin-top: 53px;
+}
+span.display-2 {
+    font-weight: 700;
+    height: 50px;
+    font-size: 56px;
+}
+h2.purchase {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+}
+.display-5 {
+    font-size: 3rem;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 700;
+}
+.display-6 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+.purchase {
+    background: linear-gradient(90deg, #ffa0a4, #16a16c);
+    margin-top: 25px;
+    height: 281px;
+}
+.btn {
+    border: 2px solid #ffffff;
+    border-radius: 100px;
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: -5px;
+}
+.btn:hover{
+    background-color: #ffffff;
+}
+.btn-light {
+    border: 3px solid #ffffff;
+    border-radius: 100px;
+    margin-left: 350px;
+    font-size: 19px;
+    margin-top: 10px;
+}
+.display-8 {
+    margin-top: 25px;
+    font-size: 45px;
+}
+.underline {
+    text-align: center;
+}
+.underline.align-left {
+    text-align: left;
+}
+.payment-main {
+    margin-top: 75px;
+}
+.list-inline-item img{
+    max-width:100px;
+}
+.list-inline-item .img-fluid {
+    margin-left: 188px;
+}
+
+.contact-main {
+    background-color: #333333;
+}
+.header {
+    color: #ffffff;
+    list-style-type: none;
+    margin-top: 100px;
+
+}
+p.display-7 {
+    color: #ffffff;
+}
+
+.underline .line {
+    width: 5rem;
+    height: 3px;
+    background: linear-gradient(90deg, #a38dfd, #fe525b);
+    display: inline-block;
+    margin: auto;
+}
+.mbr-list  li{
+    list-style-type: none;
+    margin: 20px 0 0 0;
+}
+
+ul.mbr-list {
+    color: #ffffff;
+    padding: 0;
+}
+.mbr-list li i {
+    margin: 0 21px 0 0;
+}
+.soc-item {
+    display: flex;
+    padding: 0;
+}
+.soc-item li {
+    margin: 6px 34px 0px 0;
+    color: gray;
+}
+
+.follow-heading {
+    color: #ffffff;
+    margin: 64px 0 0 0 ;
+}
+ul {
+    list-style-type: none;
+}
+footer.menu {
+    background: #333333;
+    list-style-type: none;
+}
+ul.firstColumn.align-left {
+    color: #ffffff;
+    display: grid;
+}
+ul.secondColumn.align-center {
+    margin-left: 151px;
+    color: #ffffff;
+    display: grid;
+}
+.fonts-style {
+    color: #ffffff;
+}
+.subscribe-main {
+    background: #333333;
+    font-family: 'Comfortaa', cursive;
+
+}
+.list-inline {
+    color: #ffffff;
+    margin-top: 64px;
+}
+input {
+    border-radius: 100px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 9px;
+    border: 2px #ffffff;
+    width: 400px;
+}
+.input-group-btn .btn-form {
+    background-color: #fe525b;
+    border: 2px #fe525b;
+    color: #ffffff;
+    margin-left: 430px;
+    margin-top: -96px;
+    width: 115px;
+    padding: 14px;
+}
+.input-group-btn .btn-form:hover {
+    background-color:red;
+}
+.subtext {
+    font-size: 19px;
+    color: #ffffff;
+}
+.secondary {
+    color: #fe525b;
+    font-family: 'Comfortaa', cursive;
+}
+.secondary:hover {
+    color: red;
+}
+.subtext-main {
+    color: #ffffff;
+}
+.contact-map iframe  {
+    width: 100% !important;
+}
+ul.card-main {
+    display: inline-flex;
+    padding: 0;
+}
+.payment-method ul.card-main li{
+    margin: 3px 15px 0 0px;
+}
+.social-media ul{padding: 0}
+.social-media ul li{
+    display: inline-block;
+    margin: 14px 10px 0px 0px;
+}
+.social-media ul li a.icon-transition {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    background-color: #fe525b;
+    text-align: center;
+    line-height: 50px;
+    color: #ffff;
+}
+.social-media ul li a.icon-transition:hover {
+    background-color: #BF5E63;
+}
+.cate-section ul li span.cate-label {
+    width: 175px;
+    display: inline-block;
+}
+
+
